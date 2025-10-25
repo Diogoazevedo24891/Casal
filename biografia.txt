@@ -1,23 +1,23 @@
 # Biografia
 
 ## Informações Pessoais
-- **Nome:** [Insere o teu nome]
-- **Data de Nascimento:** [Insere a tua data de nascimento]
-- **Local de Nascimento:** [Insere o local de nascimento]
+- **Nome:** João Silva
+- **Data de Nascimento:** 15 de março de 1990
+- **Local de Nascimento:** Lisboa, Portugal
 
 ## Formação Académica
-- **Curso:** [Insere o curso]
-- **Instituição:** [Insere a instituição]
-- **Ano de Conclusão:** [Insere o ano de conclusão]
+- **Curso:** Engenharia Informática
+- **Instituição:** Universidade de Lisboa
+- **Ano de Conclusão:** 2012
 
 ## Experiência Profissional
-- **Cargo Atual:** [Insere o cargo atual]
-- **Empresa:** [Insere o nome da empresa]
+- **Cargo Atual:** Desenvolvedor de Software
+- **Empresa:** Tech Solutions
 - **Principais Responsabilidades:** 
-  - [Responsabilidade 1]
-  - [Responsabilidade 2]
+  - Desenvolvimento de aplicações web
+  - Gestão de bases de dados
 
 ## Hobbies e Interesses
-- [Hobby 1]
-- [Hobby 2]
-- [Hobby 3]
+- Jogar xadrez
+- Caminhadas na natureza
+- Aprender novos idiomas.
