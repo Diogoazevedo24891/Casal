@@ -1,23 +1,17 @@
 # Biografia
 
 ## Informações Pessoais
-- **Nome:** João Silva
-- **Data de Nascimento:** 15 de março de 1990
-- **Local de Nascimento:** Lisboa, Portugal
+- **Nome:** Diogo Azevedo 
+- **Data de Nascimento:** 04 de março de 2003
+- **Local de Nascimento:** Braga, Portugal
 
 ## Formação Académica
-- **Curso:** Engenharia Informática
-- **Instituição:** Universidade de Lisboa
-- **Ano de Conclusão:** 2012
-
-## Experiência Profissional
-- **Cargo Atual:** Desenvolvedor de Software
-- **Empresa:** Tech Solutions
-- **Principais Responsabilidades:** 
-  - Desenvolvimento de aplicações web
-  - Gestão de bases de dados
+- **Curso:** desenvolvimento web multimedia 
+- **Instituição:** instituto politécnico do Cavado e do Ave
+- **Ano de Conclusão:** 2025
 
 ## Hobbies e Interesses
-- Jogar xadrez
+- Jogar fifa
+- jogar no telemóvel 
 - Caminhadas na natureza
 - Aprender novos idiomas.
