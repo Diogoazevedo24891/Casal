@@ -1,0 +1,23 @@
+# Biografia
+
+## Informações Pessoais
+- **Nome:** [Insere o teu nome]
+- **Data de Nascimento:** [Insere a tua data de nascimento]
+- **Local de Nascimento:** [Insere o local de nascimento]
+
+## Formação Académica
+- **Curso:** [Insere o curso]
+- **Instituição:** [Insere a instituição]
+- **Ano de Conclusão:** [Insere o ano de conclusão]
+
+## Experiência Profissional
+- **Cargo Atual:** [Insere o cargo atual]
+- **Empresa:** [Insere o nome da empresa]
+- **Principais Responsabilidades:** 
+  - [Responsabilidade 1]
+  - [Responsabilidade 2]
+
+## Hobbies e Interesses
+- [Hobby 1]
+- [Hobby 2]
+- [Hobby 3]
